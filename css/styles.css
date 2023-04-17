@@ -196,7 +196,7 @@ STUDiO
 .title{
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
@@ -339,13 +339,17 @@ STUDiO
   color: var(--color-cloud);
   width: 264px;  
 }
-.footer-socials{
+.title-socials-footer{
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.1;
+  line-height: 1.5;
   color: var(--main-bgc); 
   margin-bottom: 16px;
 }
+.socials-footer{
+  gap: 16px;
+}
+
 
 
 /*****
